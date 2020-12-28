@@ -769,6 +769,9 @@ a {
   font-size: 0.8rem;
   padding-left: 3px;
 }
+.cid-sktUXZGGEn .mbr-section-title {
+  text-align: center;
+}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -1112,41 +1115,75 @@ a {
     left: -1rem;
   }
 }
-.cid-scVksOuMZ0 {
+.cid-skvusyruNV {
   padding-top: 9rem;
-  padding-bottom: 4rem;
-  background-image: url("../../../assets/images/technologypattern-1051x641.png");
-}
-.cid-scVksOuMZ0 .card-box {
-  z-index: 10;
-  position: relative;
+  padding-bottom: 9rem;
+  background-color: #790f99;
 }
 @media (min-width: 1500px) {
-  .cid-scVksOuMZ0 .container {
+  .cid-skvusyruNV .container {
     max-width: 1400px;
   }
 }
-.cid-scVksOuMZ0 .card {
-  margin: auto;
+@media (min-width: 767px) {
+  .cid-skvusyruNV .container-fluid {
+    padding: 0 3rem;
+  }
 }
-.cid-scVksOuMZ0 .mbr-iconfont {
+.cid-skvusyruNV .card1 {
+  background: #be66ff;
+}
+.cid-skvusyruNV .card2 {
+  background: #6300ff;
+}
+.cid-skvusyruNV .card3 {
+  background: #22a5e5;
+}
+.cid-skvusyruNV .card4 {
+  background: #4479d9;
+}
+.cid-skvusyruNV .card5 {
+  background: #e43f3f;
+}
+.cid-skvusyruNV .mbr-iconfont {
   display: block;
   font-size: 5rem;
   color: #fafafa;
   margin-bottom: 2rem;
 }
-.cid-scVksOuMZ0 .card-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.cid-skvusyruNV .card-wrapper {
+  padding: 3rem 2rem;
+  margin-top: 3rem;
 }
-.cid-scVksOuMZ0 .row {
+@media (max-width: 767px) {
+  .cid-skvusyruNV .card-wrapper {
+    padding: 3rem 1rem;
+  }
+}
+.cid-skvusyruNV .row {
   justify-content: center;
 }
-.cid-scVksOuMZ0 H3 {
+@media (min-width: 1400px) {
+  .cid-skvusyruNV .col-lg-3 {
+    max-width: 20%;
+  }
+}
+.cid-skvusyruNV .mbr-section-title {
   color: #fafafa;
 }
-.cid-scVksOuMZ0 .card-title,
-.cid-scVksOuMZ0 .card-box {
+.cid-skvusyruNV .mbr-section-subtitle {
   color: #fafafa;
+  text-align: left;
+}
+.cid-skvusyruNV .card-title,
+.cid-skvusyruNV .iconfont-wrapper {
+  color: #fafafa;
+}
+.cid-skvusyruNV .card-text {
+  color: #082c4e;
+}
+.cid-skvusyruNV .card-text,
+.cid-skvusyruNV .link {
+  color: #fafafa;
+  text-align: left;
 }
